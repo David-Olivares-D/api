@@ -1,0 +1,30 @@
+.general {
+    display: flexbox;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    border-top:solid  2px red;
+    border-bottom:solid  2px red;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+.caja {
+    background-color: gray;
+    padding-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+
+#grafico {
+    margin-left: 350px;
+    height: 400px;
+    width: 600px;
+}
+
+#result {
+    font-size: larger;
+}
